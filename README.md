@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my publications are available at **[My Google Scholar Profile](https://scholar.google.com/citations?user=7WTtvG4AAAAJ&hl=en)**
 
-- 📫 How to reach me **khiemletu@gmail.com**
+- 📫 How to reach me: **khiemletu@gmail.com**
 
 - ⚡ Fun fact **I had a :hamster: hamster whose is also known as "Agent P"**
 
@@ -42,12 +42,13 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+
 
 <a href = "https://www.linkedin.com/in/tu-khiem-le/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/TuKhiemLe"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/wilky6496/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/Wilky64"><img src="https://img.icons8.com/fluent/48/facebook-new.png"/></a>
 
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ltkhiem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ltkhiem" /></a></p><br><br>
 
