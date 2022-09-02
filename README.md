@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **khiemletu@gmail.com**
 
-- ⚡ Fun fact **I had a :hamster: hamster whose is also known as "Agent P"**
+- ⚡ Fun fact **I had a :hamster: hamster who is also known as "Agent P"**
 
 <br/>
 
