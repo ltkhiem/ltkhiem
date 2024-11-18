@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently researching about **Gaze-coupled On-screen Information Lifelogging**
+- 🔭 I’m currently working on **Automated Root-Cause Analysis, Anomaly Detection and Server Optimization for Huawei Cloud**
 
 - 🌱 I’m currently learning **Explainable AI and Interpretable ML.**
 
@@ -16,8 +16,6 @@
 - 👨‍💻 All of my publications are available at **[My Google Scholar Profile](https://scholar.google.com/citations?user=7WTtvG4AAAAJ&hl=en)**
 
 - 📫 How to reach me: **khiemletu@gmail.com**
-
-- ⚡ Fun fact **I had a :hamster: hamster who is also known as "Agent P"**
 
 <br/>
 
